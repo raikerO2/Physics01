@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Physics_01", "Physics_01\Physics_01.vcxproj", "{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Debug|x64.ActiveCfg = Debug|x64
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Debug|x64.Build.0 = Debug|x64
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Debug|x86.Build.0 = Debug|Win32
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Release|x64.ActiveCfg = Release|x64
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Release|x64.Build.0 = Release|x64
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Release|x86.ActiveCfg = Release|Win32
+		{A74365D4-FFB7-4E71-9F7E-F2042BBC94FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF5330A-B811-465A-A758-1CD9A1D99DE0}
+	EndGlobalSection
+EndGlobal
